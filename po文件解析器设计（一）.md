@@ -18,7 +18,7 @@ RegExp, Regular expression, **正则表达式**。是一种字符串表达式，
 
 比如使用此表达式匹配字符串 `msgid "hello"` ，结果将输出 `hello`。
 
-更加详细的正则表达式教程可以参考 [正则表达式30分钟入门教程]( https://deerchao.cn/tutorials/regex/regex.htm )
+更加详细的正则表达式教程可以参考 [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm )
 
 ## （二）文件数据结构设计
 
